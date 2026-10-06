@@ -2,8 +2,7 @@
 
 Nexo Personal Brain es una base reutilizable para mantener una memoria personal privada en Markdown. Organiza el conocimiento por ámbitos de vida, conserva una nota vigente por tema y permite que una persona o una herramienta lea solo el contexto necesario.
 
-El repositorio público contiene únicamente la arquitectura, las guías, las plantillas y las comprobaciones opcionales. Tu memoria, sus fuentes y sus enlaces deben vivir en una copia privada propia.
-
+El repositorio público contiene únicamente la arquitectura, las guías, las plantillas y las comprobaciones opcionales.
 ## Crear tu Nexo privado
 
 La opción recomendada es usar este repositorio como plantilla en GitHub y elegir **Private** al crear el repositorio nuevo. Sigue la [documentación oficial para crear un repositorio desde una plantilla](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
