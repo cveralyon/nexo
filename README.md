@@ -39,3 +39,7 @@ El contenido temporal puede entrar por [_bandeja](_bandeja/README.md). Las regla
 ## Licencia
 
 La base pública se distribuye bajo la [licencia MIT](LICENSE).
+
+## Autoría
+
+Creado por **Cristián Vera Lyon** ([cveralyon](https://github.com/cveralyon)).
